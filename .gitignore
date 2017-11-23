@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/.vs/
+/ClearScriptTest/bin/
+/ClearScriptTest/obj/
+/ClearScriptTest/Licenses/
+/packages/
